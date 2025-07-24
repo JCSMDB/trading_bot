@@ -1,0 +1,6 @@
+schedule==1.2.0
+python-dotenv==1.0.0
+pandas==2.0.3
+MetaTrader5==5.0.45
+pydantic==2.1.1
+requests==2.31.0 
